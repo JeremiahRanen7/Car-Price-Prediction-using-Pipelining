@@ -13,4 +13,6 @@ TOOLS REQUIRED:
 # Feature Engineering
 # Data Cleaning - Most important of all.
 
+![Screenshot (113)](https://github.com/JeremiahRanen7/DataScience/assets/141173239/d3aff1b8-cc0a-4d26-8d1a-90726471907f)
+
 
