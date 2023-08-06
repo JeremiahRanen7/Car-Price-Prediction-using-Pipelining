@@ -12,3 +12,6 @@ TOOLS REQUIRED:
 # Tkinter - A python framework
 # Feature Engineering
 # Data Cleaning - Most important of all.
+
+![Screenshot (113)](https://github.com/JeremiahRanen7/DataScience/assets/141173239/491391ab-b128-40a6-b893-7e1326a3ac7a)
+
