@@ -15,4 +15,11 @@ TOOLS REQUIRED:
 
 ![Screenshot (113)](https://github.com/JeremiahRanen7/DataScience/assets/141173239/d3aff1b8-cc0a-4d26-8d1a-90726471907f)
 
+# Team Members:
+
+1.Siva Sankaran
+2.Dinesh N
+3.Ram Eshuwar
+4.Myself
+
 
